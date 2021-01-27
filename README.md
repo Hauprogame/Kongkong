@@ -1,2 +1,0 @@
-# Kongkong
-Hello - World
